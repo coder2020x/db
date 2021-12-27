@@ -6,10 +6,10 @@
     {"id":4,"titulo":"Paises y El Mundo","Descripcion":"Esa noche, la bandera roja soviética con los símbolos de la hoz y el martillo fue arriada del Kremlin y reemplazada por la tricolor rusa.Al día siguiente el Soviet Supremo reconoció la independencia de las repúblicas soviéticas y disolvió formalmente la Unión de Repúblicas Socialistas Soviéticas (URSS)","img":"/src/img/ru.webp","tag":"paises"}
     ],
     "comentarios":[
-    {"id":1,"titulo":"demo","comentario":"hola este es post 1"},
-    {"id":2,"titulo":"Nuevo","comentario":"hola este es post 2"},
-    {"id":3,"titulo":"Anonimo","comentario":"hola este es post 3"},
-    {"id":4,"titulo":"Novato","comentario":"hola este es post 4"}
+    {"id":1,"nombre":"demo","comentario":"hola este es post 1"},
+    {"id":2,"nombre":"Nuevo","comentario":"hola este es post 2"},
+    {"id":3,"nombre":"Anonimo","comentario":"hola este es post 3"},
+    {"id":4,"nombre":"Novato","comentario":"hola este es post 4"}
     ],
     "albun":[
     {"img":"/src/img/farm.jpg","tag":"albun"},
