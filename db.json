@@ -1,0 +1,26 @@
+{
+    "post":[
+    {"id":1,"titulo":"Novedades","Descripcion":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words"},
+    {"id":2,"titulo":"Tecnologia","Descripcion":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words"},
+    {"id":3,"titulo":"Ciencia","Descripcion":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words"},
+    {"id":4,"titulo":"Paises","Descripcion":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words"}
+    ],
+    "comentarios":[
+    {"id":1,"titulo":"test 1"},
+    {"id":2,"titulo":"test 2"},
+    {"id":3,"titulo":"test 3"},
+    {"id":4,"titulo":"test 4"}
+    ],
+    "imagen":[
+    {"id":1,"img":"/src/img/farm.jpg","tag":"farm"},
+    {"id":2,"img":"/src/img/mall.gif","tag":"mall"},
+    {"id":3,"img":"./src/img/farm.jpg","tag":"farm"},
+    {"id":4,"img":"./src/img/mall.jpg","tag":"mall"}
+    ],
+    "albun":[
+    {"img":"/src/img/farm.jpg","tag":"farm"},
+    {"img":"/src/img/mall.gif","tag":"mall"},
+    {"img":"./src/img/farm.jpg","tag":"farm"},
+    {"img":"./src/img/mall.jpg","tag":"mall"}
+    ]
+    }
