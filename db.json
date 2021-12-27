@@ -23,6 +23,10 @@
     {"img":"/src/img/n2.webp","tag":"albun"},
     {"img":"/src/img/n4.jpg","tag":"albun"},
     {"img":"/src/img/ru.webp","tag":"albun"}
-    ]
+    ],
+    "video":[
+        {"vid":"/src/video/noti.mp4","tag":"video"}
+        ]
     }
+
 
