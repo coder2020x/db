@@ -2,7 +2,7 @@
     "post":[
     {"id":1,"titulo":"Novedades","Descripcion":"El telescopio Webb está ya listo para el lanzamiento plegado en el cono del cohete Ariane 5. El telescopio más sofisticado y caro de la historia es el producto de 25 años de trabajo dirigido por la NASA con la colaboración de la ESA y la agencia espacial canadiense","img":"/src/img/webb.jpg","tag":"farm"},
     {"id":2,"titulo":"Tecnologia","Descripcion":"Hace mucho tiempo que la tecnología está presente en nuestras vidas y, cada día que pasa, usamos cada vez más los smartphones, tablets, desktops y otros dispositivos conectados. De esta forma, surgen todos los días nuevas expresiones y términos para estructurar y dar significado a este nuevo mundo.","img":"/src/img/tec.jpg","tag":"tecnologia"},
-    {"id":3,"titulo":"Ciencia","Descripcion":"Por fin. Más de dos décadas y media y un presupuesto disparado de 9.700 millones de euros, el telescopio James Webb, llamado a ser el sucesor del mítico Hubble, está de camino a su órbita en el espacio. Un recorrido de 1,5 millones de kilómetros hasta el punto de Langrange 2 L2.","img":"/src/img/ciecia.jpg","tag":"ciencia"},
+    {"id":3,"titulo":"Ciencia","Descripcion":"Por fin. Más de dos décadas y media y un presupuesto disparado de 9.700 millones de euros, el telescopio James Webb, llamado a ser el sucesor del mítico Hubble, está de camino a su órbita en el espacio. Un recorrido de 1,5 millones de kilómetros hasta el punto de Langrange 2 L2.","img":"/src/img/ciencia.jpg","tag":"ciencia"},
     {"id":4,"titulo":"Paises y El Mundo","Descripcion":"Esa noche, la bandera roja soviética con los símbolos de la hoz y el martillo fue arriada del Kremlin y reemplazada por la tricolor rusa.Al día siguiente el Soviet Supremo reconoció la independencia de las repúblicas soviéticas y disolvió formalmente la Unión de Repúblicas Socialistas Soviéticas (URSS)","img":"/src/img/ru.webp","tag":"paises"}
     ],
     "comentarios":[
@@ -16,7 +16,7 @@
     {"img":"/src/img/mall.gif","tag":"mall"},
     {"img":"./src/img/webb.jpg","tag":"farm"},
     {"img":"./src/img/tec.jpg","tag":"farm"},
-    {"img":"./src/img/ciecia.jpg","tag":"farm"},
+    {"img":"./src/img/ciencia.jpg","tag":"farm"},
     {"img":"./src/img/ru.webp","tag":"farm"}
     ]
     }
