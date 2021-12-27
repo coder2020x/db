@@ -26,7 +26,8 @@
     ],
     "video":[
         {"vid":"/src/video/noti.mp4","tag":"video"}
-        ]
+        ],
+    "mark":[
+        {"mk":"Entre los desafíos que afronta el nuevo canciller de Alemania, Olaf Scholz, está la reorientación de su política exterior. Suele ser una acción de Estado continuista con líneas de gobierno anteriores, pero esta vez las fuerzas políticas con las que comparte la coalición auguran cambios importantes. Ni Los Verdes ni los liberales del FDP están dentro del consenso sobre políticas básicas que socialdemócratas y conservadores han mantenido los últimos 15 años. Los principales cambios afectarán probablemente a las relaciones de Alemania con Moscú y con Pekín, lo que a su vez influirá en la Unión Europea. También marcarán probablemente un giro con los Gobiernos de Polonia y de Hungría. El acuerdo de coalición deja claro que se terminará con la complacencia de Angela Merkel hacia Budapest y Varsovia, aunque al mismo tiempo Berlín pueda mimar la relación con Polonia siempre que esta le dé una oportunidad"}
+    ]
     }
-
-
